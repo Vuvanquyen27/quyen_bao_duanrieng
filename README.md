@@ -1,3 +1,9 @@
+# quyen_bao_duanrieng
+
+dự án game
+
+## Ghi chú ý tưởng
+
 cần kịch bản cốt truyện
 
 nhân vật
@@ -18,4 +24,4 @@ khi nhận được trang phục mình mặc vào thì sẽ mặc nó vào sẽ 
 
 fam boss, pk đồ sát
 
-thông qua các cổng dịch chuyển 
+thông qua các cổng dịch chuyển
